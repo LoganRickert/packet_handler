@@ -11,6 +11,8 @@ Make sure you have the following things installed:
 * pip install pypcapfile
 * python2.7
 
+* apt-get install tcpdump
+
 ## Requirements
 
 Before running, make sure you run `split_pcap.bash`.
